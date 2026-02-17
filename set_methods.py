@@ -1,0 +1,11 @@
+collection={1,2,3}
+collection.add("abdullah")
+print(collection)
+collection.remove(2)
+print(collection)
+set1={1,2,3,4}
+set2={3,4,5}
+print(set1.union(set2))
+print(set1.intersection(set2))
+set={"python","c","python","java","c++","java"}
+print(len(set))
